@@ -1,3 +1,5 @@
+//Program that takes order from customer and creates a menu that resturant can use to generate pizzas. 
+
 using namespace std;
 #include <iostream>
 #include <string>
